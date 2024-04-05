@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278268136085",
+    "project_id": "final-project-abd4a",
+    "storage_bucket": "final-project-abd4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278268136085:android:2d7639483c1eed0751e99c",
+        "android_client_info": {
+          "package_name": "com.example.arun_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4yTIyF9jEUgqq78Jkfj1QpMkpPM7yANk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
